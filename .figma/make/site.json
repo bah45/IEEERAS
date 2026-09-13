@@ -1,0 +1,11 @@
+{
+  "title": "IEEE RAS",
+  "description": "Showcases a sleek, dark-themed club interface with dynamic liquid glass effects and authentic logos, enhancing user engagement through stylish motion design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
